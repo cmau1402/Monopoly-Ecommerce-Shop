@@ -15,7 +15,6 @@ The project demonstrates database design, SQL programming, backend development, 
 * MYSQL
 * SQL
 * HTML
-* CSS
 
 ---
 
