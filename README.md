@@ -68,3 +68,4 @@ The project demonstrates database design, SQL programming, backend development, 
 
 This project strengthened my understanding of relational database desgins, backend web development, secure authentication, and building applications that integrate multiple database tables while maintaining data integrity.
 
+---
